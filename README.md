@@ -12,14 +12,11 @@
   </div>
 
   <h3 align="center">A HealthCare Management System</h3>
-</div>
 
-<div align="center">
-    <br />
-    <h1>🛑LIVE 🎞️🎥</h1>
-    <a href="https://biobells.vercel.app/" target="_blank">
-    </a>
-  <br />
+
+
+<h3>🛑LIVE 🎞️🎥   \n 👉 https://biobells.vercel.app/ </h3>
+ 
 
 </div>
 ## 📋 <a name="table">Table of Contents</a>
